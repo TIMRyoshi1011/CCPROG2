@@ -1,0 +1,55 @@
+How many words do you want to add to the list? Input any string with a max of 25 characters. You can input up to 10 items.
+Input END! if you wish to end the input process.
+
+The following words have been saved:
+Cherry
+Apple
+Banana
+Avocado
+Grapes
+APPle
+Blueberries
+Wow
+Racecar
+Strawberries
+
+Duplicate words with count:
+apple - 2
+
+Words in descending order:
+Wow
+Strawberries
+Racecar
+Grapes
+Cherry
+Blueberries
+Banana
+Avocado
+Apple
+APPle
+
+Words in ascending order:
+APPle
+Apple
+Avocado
+Banana
+Blueberries
+Cherry
+Grapes
+Racecar
+Strawberries
+Wow
+
+Reverse words:
+elPPA
+elppA
+odacovA
+ananaB
+seirrebeulB
+yrrehC
+separG
+racecaR
+seirrebwartS
+woW
+
+Number of palindrome words in list = 2

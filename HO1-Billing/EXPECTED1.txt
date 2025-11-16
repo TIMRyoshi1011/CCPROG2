@@ -1,0 +1,31 @@
+Welcome to BnB Breakfast Cafe!
+
+ITEM CODE	|	ITEM NAME			|	ITEM PRICE	|	DISCOUNT
+ [BT]		|	 Beef Tapa w/ rice		|	 80.00		|	 0.00%
+ [BE]		|	 Bacon & Eggs w/ rice		|	 95.50		|	 0.00%
+ [PS]		|	 Pancake & Sausages		|	 75.50		|	 10.00%
+ [CW]		|	 Chicken & Waffles		|	 85.50		|	 20.00%
+ [OM]		|	 Omelette Special		|	 60.00		|	 0.00%
+ [GS]		|	 German Sausage & rice		|	 99.75		|	 20.00%
+ [CB]		|	 Crispy Bangus w/ rice		|	 65.00		|	 10.00%
+ [BB]		|	 Big Breakfast Meal		|	 120.00		|	 25.00%
+
+Please tell me your order!
+
+Item Code: Quantity: 
+
+Item Code: Quantity: 
+
+Item Code: Quantity: 
+
+Item Code: Quantity: 
+====
+BILL
+====
+	ITEM		|	QTY	|	PRICE		|	DISCOUNT	|	SUB-TOTAL
+German Sausage & rice	|	 3	|	99.75		|	19.95		|	239.40
+Big Breakfast Meal	|	 1	|	120.00		|	30.00		|	90.00
+Bacon & Eggs w/ rice	|	 1	|	95.50		|	0.00		|	95.50
+Omelette Special	|	 2	|	60.00		|	0.00		|	120.00
+
+AMT. DUE:	544.90

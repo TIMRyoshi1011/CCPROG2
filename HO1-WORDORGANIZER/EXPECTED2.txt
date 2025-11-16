@@ -1,0 +1,26 @@
+How many words do you want to add to the list? Input any string with a max of 25 characters. You can input up to 10 items.
+Input END! if you wish to end the input process.
+
+The following words have been saved:
+Mary
+Grace
+Piattos
+
+Duplicate words with count:
+
+Words in descending order:
+Piattos
+Mary
+Grace
+
+Words in ascending order:
+Grace
+Mary
+Piattos
+
+Reverse words:
+ecarG
+yraM
+sottaiP
+
+Number of palindrome words in list = 0

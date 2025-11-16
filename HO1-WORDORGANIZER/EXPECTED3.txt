@@ -1,0 +1,54 @@
+How many words do you want to add to the list? Input any string with a max of 25 characters. You can input up to 10 items.
+Input END! if you wish to end the input process.
+
+The following words have been saved:
+Adobo
+Menudo
+Bulalo
+Chopsuey
+Sinigang
+Opo
+Bistek
+Ampalaya
+Tapat
+enD!
+
+Duplicate words with count:
+
+Words in descending order:
+enD!
+Tapat
+Sinigang
+Opo
+Menudo
+Chopsuey
+Bulalo
+Bistek
+Ampalaya
+Adobo
+
+Words in ascending order:
+Adobo
+Ampalaya
+Bistek
+Bulalo
+Chopsuey
+Menudo
+Opo
+Sinigang
+Tapat
+enD!
+
+Reverse words:
+obodA
+ayalapmA
+ketsiB
+olaluB
+yeuspohC
+oduneM
+opO
+gnaginiS
+tapaT
+!Dne
+
+Number of palindrome words in list = 2
