@@ -1,0 +1,16 @@
+LATEST GADGETS LIST:
+
+Serial Number: 13579135
+Date Released: 02 / 07 / 2025
+Company: Samsung
+Device Name: S25 Ultra
+Device Type: Cell Phone
+Device OS: Android 15
+
+Serial Number: 24680246
+Date Released: 03 / 12 / 2025
+Company: Apple
+Device Name: iPad Air(7th Gen)
+Device Type: Tablet
+Device OS: iPadOS 18.3.2
+
