@@ -1,0 +1,5 @@
+THE CONTENTS OF THIS FILE:
+int: 5
+float: 3.140000
+char: W
+string: Hello
