@@ -1,0 +1,70 @@
+Computer
+2
+
+Annex Digital Incorporated
+Amber Place Mkti
+28696704
+
+Alfox Computer Center
+Epi Bldg QC
+28926689
+
+Beverages
+5
+
+Fresh Healthy Juice Boosters Inc.
+Robinsons Place Manila Mla
+28354031
+
+Big Chill
+Ayala Malls Manila Bay Mla
+95674228
+
+Pepsico Incorporated
+The Zuellig Bldg Mkti
+28885719
+
+Buko Loko
+Sm City Valenzuela Val
+93324809
+
+Little House Milktea
+A Flores Psg
+96731806
+
+Apartments
+4
+
+Urdaneta Apartments Condominium
+Urdaneta Condmn Mkti
+28444160
+
+Jade Valley
+Sct Torillo Mla
+28921824
+
+The Xavier Residences
+441 Cubao QC
+28462647
+
+Pan Asian Multi Resources Incorporated
+949 Quirino Hwy QC
+28441477
+
+Computer Software
+0
+
+Baby Products
+3
+
+Minton Multiresources Incorporated
+Robinsons Place Manila Mla
+27576192
+
+Dynamic Multi Products Incorporated
+Downtown Ctr Bldg QC
+28241990
+
+Savemore Solutions Incorporated
+World Trade Exch Bldg Psg
+28718829

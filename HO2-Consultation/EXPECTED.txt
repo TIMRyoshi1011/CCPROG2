@@ -1,0 +1,241 @@
+---Testing inputDoctor()---
+Get inputs:
+Number of input doctors = 11
+
+***Ida Valencia***
+Specializations:
+Orthopedic, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        none        none        none        none        none        none        
+
+***Juan Ocampo***
+Specializations:
+Internal Medicine
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+1300-1600   none        none        none        none        0800-1400   none        
+
+***Agnes Cruz***
+Specializations:
+Cardiology, Internal Medicine, Pediatrics, Surgery, Child Nutrition
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        1000-1600   none        none        none        1800-2300   none        
+
+***Roberto dela Costa***
+Specializations:
+Surgery, Pediatrics, Cardiology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1600   none        1400-1800   none        1400-1800   none        
+
+***Teddy Calma***
+Specializations:
+Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0830-1200   none        1400-1630   none        1200-1800   none        
+
+***Eva Lacson***
+Specializations:
+Pulmonary Medicine
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        none        none        none        none        none        none        
+
+***Susan Tuazon***
+Specializations:
+Dental Medicine, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        none        none        none        none        none        none        
+
+***Marie Singson***
+Specializations:
+EENT, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        none        none        none        none        none        none        
+
+***Lila Tam***
+Specializations:
+EENT, Pediatrics, Opthalmology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+0900-1200   none        1400-1800   none        none        1200-1500   none        
+
+***Mico Chiong***
+Specializations:
+EENT, Vison, Opthalmology, Optometrist, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1200   none        1400-1600   none        1000-1800   none        
+
+***Francis dela Torre***
+Specializations:
+Oncology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1100   none        1200-1600   none        1000-1800   none        
+
+
+
+---Testing genDoctorsToday()---
+Number of doctors on Wednesday = 4
+
+***Roberto dela Costa***
+Specializations:
+Surgery, Pediatrics, Cardiology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1600   none        1400-1800   none        1400-1800   none        
+
+***Teddy Calma***
+Specializations:
+Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0830-1200   none        1400-1630   none        1200-1800   none        
+
+***Mico Chiong***
+Specializations:
+EENT, Vison, Opthalmology, Optometrist, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1200   none        1400-1600   none        1000-1800   none        
+
+***Francis dela Torre***
+Specializations:
+Oncology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1100   none        1200-1600   none        1000-1800   none        
+
+
+
+---Testing trimList()---
+
+After removing doctors with no clinic hours the whole week:
+Number of doctors left = 7
+***Juan Ocampo***
+Specializations:
+Internal Medicine
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+1300-1600   none        none        none        none        0800-1400   none        
+
+***Agnes Cruz***
+Specializations:
+Cardiology, Internal Medicine, Pediatrics, Surgery, Child Nutrition
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        1000-1600   none        none        none        1800-2300   none        
+
+***Roberto dela Costa***
+Specializations:
+Surgery, Pediatrics, Cardiology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1600   none        1400-1800   none        1400-1800   none        
+
+***Teddy Calma***
+Specializations:
+Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0830-1200   none        1400-1630   none        1200-1800   none        
+
+***Lila Tam***
+Specializations:
+EENT, Pediatrics, Opthalmology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+0900-1200   none        1400-1800   none        none        1200-1500   none        
+
+***Mico Chiong***
+Specializations:
+EENT, Vison, Opthalmology, Optometrist, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1200   none        1400-1600   none        1000-1800   none        
+
+***Francis dela Torre***
+Specializations:
+Oncology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1100   none        1200-1600   none        1000-1800   none        
+
+
+
+---Testing sortAvail()---
+
+After sorting based on Wednesday sched:
+***Francis dela Torre***
+Specializations:
+Oncology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1100   none        1200-1600   none        1000-1800   none        
+
+***Mico Chiong***
+Specializations:
+EENT, Vison, Opthalmology, Optometrist, Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1200   none        1400-1600   none        1000-1800   none        
+
+***Teddy Calma***
+Specializations:
+Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0830-1200   none        1400-1630   none        1200-1800   none        
+
+***Roberto dela Costa***
+Specializations:
+Surgery, Pediatrics, Cardiology
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0930-1600   none        1400-1800   none        1400-1800   none        
+
+
+
+---Testing reco()---
+
+Looking for 1st available doctor whose specialization includes Pediatrics this Monday
+***Teddy Calma***
+Specializations:
+Pediatrics
+
+Clinic Schedules:
+Sunday      Monday      Tuesday     Wednesday   Thursday    Friday      Saturday    
+none        0830-1200   none        1400-1630   none        1200-1800   none        
+

@@ -1,0 +1,71 @@
+============================================= DIRECTORY =============================================
+   Business Name                           Address                       Number     
+-----------------------------------------------------------------------------------------------------
+----- Computer---------------------------------------------------------------------------------------
+ 1 Annex Digital Incorporated              Amber Place Mkti              028696704
+ 2 Alfox Computer Center                   Epi Bldg QC                   028926689
+----- Beverages--------------------------------------------------------------------------------------
+ 1 Fresh Healthy Juice Boosters Inc.       Robinsons Place Manila Mla    028354031
+ 2 Big Chill                               Ayala Malls Manila Bay        095674228
+ 3 Pepsico Incorporated                    The Zuellig Bldg Mkti         028885719
+ 4 Buko Loko                               Sm City Valenzuela Val        093324809
+ 5 Little House Milktea                    A Flores Psg                  096731806
+----- Apartments-------------------------------------------------------------------------------------
+ 1 Urdaneta Apartments Condominium         Urdaneta Condmn Mkti          028444160
+ 2 Jade Valley                             Sct Torillo Mla               028921824
+ 3 The Xavier Residences                   441 Cubao QC                  028462647
+ 4 Pan Asian Multi Resources Incorporated  949 Quirino Hwy QC            028441477
+----- Computer Software------------------------------------------------------------------------------
+Empty...
+----- Baby Products----------------------------------------------------------------------------------
+ 1 Minton Multiresources Incorporated      Robinsons Place Manila Mla    027576192
+ 2 Dynamic Multi Products Incorporated     Downtown Ctr Bldg QC          028241990
+ 3 Savemore Solutions Incorporated         World Trade Exch Bldg Psg     028718829
+=====================================================================================================
+
+** TASK #1: getCategory() ***************************************************************************
+Test 1 (existing category): 2
+Test 2 (non-existing category): -1
+Test 3 (multi-similar category): 0
+
+** TASK #2: addBusiness() ***************************************************************************
+Test 1 (adding to category with no values): 1
+Test 2 (adding to category with > 1 < 5 values): 1
+Test 3 (adding to category with 5 values): 0
+
+** TASK #3: getBusinessInfo() ***********************************************************************
+Test 1 (info for non-existing Krispy Kreme): NOT FOUND  0
+Test 2 (info for existing Big Chill): Big Chill Ayala Malls Manila Bay 95674228
+Test 3 (info for existing but inc Pepsico): NOT FOUND  0
+
+** TASK #4: findBusinessInCityCategory() ************************************************************
+Test 1 (find in QC, Apartments): The Xavier Residences 441 Cubao QC 28462647
+Test 2 (find in Psg, Computers): NOT FOUND  0
+
+** TASK #5: sortCatBusiness() ***********************************************************************
+============================================== SORTED ===============================================
+============================================= DIRECTORY =============================================
+   Business Name                           Address                       Number     
+-----------------------------------------------------------------------------------------------------
+----- Apartments-------------------------------------------------------------------------------------
+ 1 Jade Valley                             Sct Torillo Mla               028921824
+ 2 Pan Asian Multi Resources Incorporated  949 Quirino Hwy QC            028441477
+ 3 The Xavier Residences                   441 Cubao QC                  028462647
+ 4 Urdaneta Apartments Condominium         Urdaneta Condmn Mkti          028444160
+----- Baby Products----------------------------------------------------------------------------------
+ 1 Dynamic Multi Products Incorporated     Downtown Ctr Bldg QC          028241990
+ 2 Minton Multiresources Incorporated      Robinsons Place Manila Mla    027576192
+ 3 Savemore Solutions Incorporated         World Trade Exch Bldg Psg     028718829
+----- Beverages--------------------------------------------------------------------------------------
+ 1 Big Chill                               Ayala Malls Manila Bay        095674228
+ 2 Buko Loko                               Sm City Valenzuela Val        093324809
+ 3 Fresh Healthy Juice Boosters Inc.       Robinsons Place Manila Mla    028354031
+ 4 Little House Milktea                    A Flores Psg                  096731806
+ 5 Pepsico Incorporated                    The Zuellig Bldg Mkti         028885719
+----- Computer---------------------------------------------------------------------------------------
+ 1 Alfox Computer Center                   Epi Bldg QC                   028926689
+ 2 Annex Digital Incorporated              Amber Place Mkti              028696704
+ 3 Test New Business Name                  Test New Business Address     012345678
+----- Computer Software------------------------------------------------------------------------------
+ 1 Test New Business Name                  Test New Business Address     012345678
+=====================================================================================================
