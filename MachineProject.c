@@ -1,4 +1,4 @@
-//Disclaimer: This code is programmed by me and my partner as our machine project for CCPROG2
+// Disclaimer: This code is programmed by my partner and tested by me as our final project for this course
 
 /*********************************************************************************************************
 This is to certify that this project is our own work, based on our personal efforts in studying and applying the concepts
@@ -1775,3 +1775,4 @@ int main() {
 
     return 0;
 }
+
