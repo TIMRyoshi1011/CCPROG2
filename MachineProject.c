@@ -1,5 +1,3 @@
-// Disclaimer: This code is programmed by my partner and tested by me as our final project for this course
-
 /*********************************************************************************************************
 This is to certify that this project is our own work, based on our personal efforts in studying and applying the concepts
 learned. We have constructed the functions and their respective algorithms and corresponding code by myself. The
@@ -1775,4 +1773,5 @@ int main() {
 
     return 0;
 }
+
 
